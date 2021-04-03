@@ -1,0 +1,18 @@
+state={
+	id=1200
+	name="STATE_1200"
+
+	provinces={
+		6513 9375 11402 11468 11493 
+	}
+
+	history={
+		owner = BRN
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = BRN
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

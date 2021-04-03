@@ -1,0 +1,15 @@
+version="1.10"
+tags={
+	"Alternative History"
+	"Events"
+	"Gameplay"
+	"Graphics"
+	"Ideologies"
+	"Technologies"
+	"National Focuses"
+	"Map"
+}
+name="Divergences of the Past"
+replace_path="map"
+replace_path="history/states"
+supported_version="1.10.1"

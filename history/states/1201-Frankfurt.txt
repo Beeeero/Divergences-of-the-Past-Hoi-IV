@@ -1,0 +1,17 @@
+state={
+	id=1201
+	name="STATE_1201"
+	provinces={
+		6488 
+	}
+
+	history={
+		owner = FRK
+		buildings = {
+			infrastructure = 8
+		}
+		add_core_of = FRK
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

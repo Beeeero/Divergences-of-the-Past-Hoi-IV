@@ -1,0 +1,33 @@
+
+state={
+	id=819
+	name="STATE_819"
+
+	history={
+		owner = BUR
+		victory_points = {
+			3671 10 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+		add_core_of = BUR
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		3594 3655 6644 9607 9609 11576 11593 11611 
+	}
+	manpower=523100
+	buildings_max_level_factor=1.000
+	state_category=town
+}

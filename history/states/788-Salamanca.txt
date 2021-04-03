@@ -1,0 +1,28 @@
+
+state={
+	id=788
+	name="STATE_788"
+
+	history={
+		owner = MUN
+		victory_points = {
+			6469 10 
+		}
+		buildings = {
+			infrastructure = 8
+			arms_factory = 2
+			industrial_complex = 1
+
+		}
+		add_core_of = MUN
+		add_core_of = PRE
+
+	}
+
+	provinces={
+		495 3512 6469 6535 6622 11346 
+	}
+	manpower=3022303
+	buildings_max_level_factor=1.000
+	state_category=large_city
+}

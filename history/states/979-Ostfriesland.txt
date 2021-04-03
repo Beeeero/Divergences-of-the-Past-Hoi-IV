@@ -1,0 +1,26 @@
+
+state={
+	id=979
+	name="STATE_979"
+
+	history={
+		owner = EFR
+		victory_points = {
+			11360 1 
+		}
+		buildings = {
+			infrastructure = 6
+
+		}
+		add_core_of = EFR
+
+
+	}
+
+	provinces={
+		336 9281 11233 11264 11360 
+	}
+	manpower=42033
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

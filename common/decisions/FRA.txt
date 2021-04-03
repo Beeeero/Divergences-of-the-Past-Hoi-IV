@@ -1,0 +1,50 @@
+propaganda_efforts = {
+	test = {
+
+		icon = generic_democracy
+
+		available = {
+			
+		}
+		visible = {
+			
+		}
+		
+		complete_effect = {
+			every_owned_state = {
+				add_to_array = {
+					array = ROOT.country_states
+					value = THIS.id
+				}
+			}
+
+			
+		}
+	}
+	test5 = {
+
+		icon = generic_democracy
+
+		available = {
+			always = yes
+		}
+		visible = {
+			
+		}
+		
+		complete_effect = {
+				every_owned_state = {
+					set_variable = {
+						var = coutry_state_population
+						value = THIS.state_population_k
+					}
+					
+					divide_variable	 = {
+					var = coutry_state_population
+					value = 1000
+				}
+				}
+			}
+		}
+	}
+}

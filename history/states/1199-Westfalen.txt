@@ -1,0 +1,20 @@
+state={
+	id=1199
+	name="STATE_1199"
+
+
+	provinces={
+		247 405 3355 9509 11388 11431 
+	}
+
+	history={
+	owner = LPD
+	buildings = {
+	infrastructure = 8
+	}
+	add_core_of = LPD
+	}
+	
+	manpower=0
+	buildings_max_level_factor=1.000
+}

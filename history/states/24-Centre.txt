@@ -1,0 +1,33 @@
+
+state={
+	id=24
+	name="STATE_24"
+
+	history={
+		owner = DUM
+		victory_points = {
+			512 15 
+		}
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+		add_core_of = DUM
+		1939.1.1 = {
+			buildings = {
+				industrial_complex = 2
+
+			}
+
+		}
+
+	}
+
+	provinces={
+		512 3493 3506 6518 6533 6547 6688 9492 9507 9644 
+	}
+	manpower=1023200
+	buildings_max_level_factor=1.000
+	state_category=town
+}
