@@ -7,7 +7,7 @@ state={
 	}
 
 	history={
-		owner = ITA
+		owner = VEC
 		victory_points = {
 			628 1 
 		}
@@ -17,7 +17,6 @@ state={
 			industrial_complex = 1
 
 		}
-		add_core_of = ITA
 		add_core_of = VEC
 
 	}

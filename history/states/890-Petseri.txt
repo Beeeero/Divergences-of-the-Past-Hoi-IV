@@ -1,3 +1,4 @@
+
 state={
 	id=890
 	name="STATE_890"
@@ -13,9 +14,9 @@ state={
 	}
 
 	provinces={
-		415 
+		9340 
 	}
 	manpower=21100
 	buildings_max_level_factor=1.000
-	state_category = enclave
+	state_category=enclave
 }

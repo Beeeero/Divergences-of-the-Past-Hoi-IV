@@ -4,7 +4,7 @@ state={
 	name="STATE_441"
 
 	history={
-		owner = RAJ
+		owner = MUG
 		victory_points = {
 			12754 1 
 		}
@@ -12,13 +12,12 @@ state={
 			infrastructure = 2
 
 		}
-		add_core_of = RAJ
-		add_claim_by = PAK
+		add_core_of = MUG
 
 	}
 
 	provinces={
-		1910 7273 7316 8005 10905 12754 12884 
+		1910 7316 8005 10905 12754 12884 13289 
 	}
 	manpower=2111600
 	buildings_max_level_factor=1.000

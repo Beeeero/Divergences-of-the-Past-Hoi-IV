@@ -1,19 +1,21 @@
+
 state={
 	id=831
 	name="STATE_831"
 
 	history={
-		owner = ROM
+		owner = BUL
 		buildings = {
 			infrastructure = 4
 
 		}
 		add_core_of = ROM
+		add_core_of = BUL
 
 	}
 
 	provinces={
-		13311 
+		687 3076 13311 
 	}
 	manpower=981
 	buildings_max_level_factor=1.000

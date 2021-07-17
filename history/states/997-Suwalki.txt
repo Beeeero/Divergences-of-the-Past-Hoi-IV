@@ -1,24 +1,25 @@
+
 state={
 	id=997
 	name="STATE_997"
 
 	history={
-		owner = POL
+		owner = BAY
 		victory_points = {
 			3254 1 
 		}
 		buildings = {
-			infrastructure = 5
+			infrastructure = 6
 
 		}
-		add_core_of = POL
+		add_core_of = BAY
 
 	}
 
 	provinces={
-		3254 
+		6421 6594 9557 9572 11417 13116 
 	}
-	manpower=124000
+	manpower=1204000
 	buildings_max_level_factor=1.000
-	state_category=pastoral
+	state_category=city
 }

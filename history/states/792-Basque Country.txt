@@ -1,9 +1,10 @@
-state={	#Bitburg
+
+state={
 	id=792
 	name="STATE_792"
 
 	history={
-		owner = BUR
+		owner = INS
 		victory_points = {
 			11435 1 
 		}
@@ -11,12 +12,12 @@ state={	#Bitburg
 			infrastructure = 7
 
 		}
-		add_core_of = BUR
+		add_core_of = INS
 
 	}
 
 	provinces={
-		11435 
+		1209 1413 4306 4390 4608 7654 10135 10479 10491 12293 12472 
 	}
 	manpower=22003
 	buildings_max_level_factor=1.000

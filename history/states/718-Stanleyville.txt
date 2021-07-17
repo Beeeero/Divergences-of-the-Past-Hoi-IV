@@ -9,7 +9,7 @@ state={
 	}
 
 	history={
-		owner = BUR
+		owner = DUM
 		buildings = {
 			infrastructure = 2
 

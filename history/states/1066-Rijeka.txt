@@ -1,9 +1,10 @@
+
 state={
 	id=1066
 	name="STATE_1066"
 
 	history={
-		owner = ITA
+		owner = ARA
 		victory_points = {
 			11564 1 
 		}
@@ -12,13 +13,12 @@ state={
 
 		}
 		add_core_of = ITA
-		add_core_of = YUG
-		add_core_of = CRO
+		add_core_of = ARA
 
 	}
 
 	provinces={
-		11564 
+		883 3923 3966 6843 6939 6980 
 	}
 	manpower=61000
 	buildings_max_level_factor=1.000

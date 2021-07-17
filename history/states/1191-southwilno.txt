@@ -1,20 +1,22 @@
+
 state={
 	id=1191
 	name="STATE_1191"
-	manpower = 63000
-	
-	state_category = rural
-	
+
 	history={
-		owner = POL
+		owner = THU
 		buildings = {
 			infrastructure = 5
+
 		}
-		add_core_of = POL
-		add_core_of = LIT
+		add_core_of = THU
+
 	}
 
 	provinces={
-		13369
+		482 3500 3561 
 	}
+	manpower=930070
+	buildings_max_level_factor=1.000
+	state_category=large_town
 }

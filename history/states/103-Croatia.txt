@@ -4,7 +4,7 @@ state={
 	name="STATE_103"
 
 	history={
-		owner = YUG
+		owner = CRO
 		victory_points = {
 			6889 1 
 		}
@@ -17,13 +17,12 @@ state={
 			}
 
 		}
-		add_core_of = YUG
 		add_core_of = CRO
 
 	}
 
 	provinces={
-		984 3974 6889 11816 
+		984 3974 6889 11816 13278 
 	}
 	manpower=514514
 	buildings_max_level_factor=1.000

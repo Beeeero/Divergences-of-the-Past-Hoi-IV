@@ -1,22 +1,23 @@
+
 state={
 	id=803
 	name="STATE_803"
 
 	history={
-		owner = CZE
+		owner = SOV
 		victory_points = {
 			6512 3 
 		}
 		buildings = {
-			infrastructure = 6
+			infrastructure = 4
 
 		}
-		add_core_of = CZE		
+		add_core_of = SOVV
 
 	}
 
 	provinces={
-		6512 9457 
+		60 81 129 160 163 166 3057 3124 3154 3157 3160 6073 6097 6182 6189 9102 9131 9199 9207 11062 11103 11107 11168 11189 11213 
 	}
 	manpower=500301
 	buildings_max_level_factor=1.000

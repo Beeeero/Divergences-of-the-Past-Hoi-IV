@@ -1,19 +1,21 @@
+
 state={
 	id=912
 	name="STATE_912"
 
 	history={
-		owner = BRA
+		owner = ATL
 		buildings = {
 			infrastructure = 1
 
-		}
-		add_core_of = BRA
+		}		
+                add_core_of = ATL
+                add_core_of = AMZ
 
 	}
 
 	provinces={
-		5216 
+		2190 5174 5194 5204 5218 8129 8177 8242 10926 10984 
 	}
 	manpower=42700
 	buildings_max_level_factor=1.000

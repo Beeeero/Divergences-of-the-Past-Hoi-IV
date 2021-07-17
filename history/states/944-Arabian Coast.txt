@@ -1,9 +1,10 @@
+
 state={
 	id=944
 	name="STATE_944"
 
 	history={
-		owner = SAU
+		owner = ALH
 		buildings = {
 			infrastructure = 2
 			12702 = {
@@ -13,11 +14,13 @@ state={
 
 		}
 		add_core_of = SAU
+                add_core_of = JAM
+                add_core_of = ALH
 
 	}
 
 	provinces={
-		1955 4932 10791 12702 13279 
+		1955 10791 12702 
 	}
 	manpower=620000
 	buildings_max_level_factor=1.000

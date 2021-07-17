@@ -4,25 +4,23 @@ state={
 	name="STATE_1159"
 
 	history={
-                add_claim_by = BUL
-		owner = GRE
+		add_claim_by = BUL
+		owner = TUR
 		buildings = {
 			infrastructure = 5
 			arms_factory = 1
 			industrial_complex = 1
 
-			}
-
+		}
 		add_core_of = GRE
 		add_claim_by = BUL
-            }
 
-	
+	}
 
 	provinces={
-		3526 3936
-	          }
+		3526 3936 10163 
+	}
 	manpower=365700
 	buildings_max_level_factor=1.000
 	state_category=town
-    }    
+}

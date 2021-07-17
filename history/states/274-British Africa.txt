@@ -4,7 +4,7 @@ state={
 	name="STATE_274"
 
 	history={
-		owner = DUM
+		owner = BUR
 		add_core_of = GHA
 		victory_points = {
 			10862 1 
@@ -21,7 +21,7 @@ state={
 	}
 
 	provinces={
-		8039 8096 10862 12742 12787 13136 
+		10862 12742 12787 13136 
 	}
 	manpower=2963400
 	buildings_max_level_factor=1.000

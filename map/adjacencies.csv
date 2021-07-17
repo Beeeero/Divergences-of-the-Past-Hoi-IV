@@ -217,5 +217,44 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 11910;10127;impassable;-1;-1;-1;-1;-1;;Alaska
 7148;10127;impassable;-1;-1;-1;-1;-1;;Alaska
 13364;10127;impassable;-1;-1;-1;-1;-1;;Alaska
-3314;6336;sea;2752;2885;1578;2890;1581;;Afsluitdijk
+10272;7423;sea;-1;-1;-1;-1;-1;;Phillipines
+12118;1224;sea;-1;-1;-1;-1;-1;;Phillipines
+2222;2170;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4335;2170;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+12955;2170;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+8221;2170;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+2184;2170;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+2184;7424;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+5176;7424;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+5176;5226;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+5176;7299;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+7355;7299;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4323;7299;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4236;7299;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4236;5226;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4236;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+1404;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+7415;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+12243;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+7358;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10240;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10199;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10143;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4282;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10212;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+12171;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+12171;1335;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4338;1335;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4338;12186;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+7371;1335;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10269;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+8091;2047;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+2222;7443;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4216;7443;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+12283;7443;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4396;7443;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+4396;2117;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+8091;2117;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+10269;1335;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
+2222;7424;impassable;-1;-1;-1;-1;-1;;Borneo Mnts
 -1;-1;;-1;-1;-1;-1;-1;-1

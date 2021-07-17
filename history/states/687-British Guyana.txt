@@ -7,8 +7,8 @@ state={
 	}
 
 	history={
-		add_core_of = GYA
-		owner = DUM
+		add_core_of = ESE
+		owner = ESE
 		victory_points = {
 			4982 1 
 		}
@@ -24,7 +24,7 @@ state={
 	}
 
 	provinces={
-		4982 8107 
+		4982 8107 10954 
 	}
 	manpower=207000
 	buildings_max_level_factor=1.000

@@ -4,17 +4,18 @@ state={
 	name="STATE_1152"
 
 	history={
-		owner = SAU
+		owner = JAM
 		buildings = {
 			infrastructure = 1
 
 		}
 		add_core_of = SAU
+                add_core_of = JAM
 
 	}
 
 	provinces={
-		13342
+		2057 4968 5027 5058 7970 10901 12455 13342 
 	}
 	manpower=1200
 	buildings_max_level_factor=1.000

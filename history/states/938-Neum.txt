@@ -1,20 +1,21 @@
+
 state={
 	id=938
 	name="STATE_938"
 
 	history={
-		owner = YUG
+		owner = ATL
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = YUG
-		add_core_of = CRO
+		add_core_of = ATL
+		add_core_of = AMZ
 
 	}
 
 	provinces={
-		13278 
+		5188 8191 10940 12917 
 	}
 	manpower=3271
 	buildings_max_level_factor=1.000

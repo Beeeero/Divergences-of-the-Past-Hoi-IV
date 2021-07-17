@@ -4,7 +4,7 @@ state={
 	name="STATE_637"
 
 	history={
-		owner = SOV
+		owner = AIN
 		buildings = {
 			infrastructure = 2
 			12207 = {
@@ -13,14 +13,14 @@ state={
 			}
 
 		}
-		add_core_of = SOV
+		add_core_of = AIN
 
 	}
 
 	provinces={
-		1823 1839 1863 4728 7878 12207 12522 
+		1819 1823 1839 1863 4455 4728 4744 5264 7878 12207 12522 13062 13063 13204 
 	}
 	manpower=48831
-	buildings_max_level_factor=1
-	state_category="wasteland"
+	buildings_max_level_factor=1.000
+	state_category=wasteland
 }

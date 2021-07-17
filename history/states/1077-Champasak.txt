@@ -1,10 +1,11 @@
+
 state={
 	id=1077
 	name="STATE_1077"
 
 	history={
-		owner = DUM
-		add_core_of = LAO
+		owner = CAM
+		add_core_of = CAM
 		buildings = {
 			infrastructure = 1
 
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		1592 
+		1592 7601 12417 12431 
 	}
 	manpower=8000
 	buildings_max_level_factor=1.000

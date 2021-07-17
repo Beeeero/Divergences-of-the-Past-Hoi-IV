@@ -2,20 +2,21 @@
 state={
 	id=1194
 	name="STATE_1194"
-	manpower = 240500
-	
-	state_category = metropolis
-
 
 	history={
 		owner = DUM
 		buildings = {
 			infrastructure = 8
+
 		}
 		add_core_of = DUM
+
 	}
 
 	provinces={
-		6949 11518 
+		6949 9523 9534 9725 11491 11518 
 	}
+	manpower=240500
+	buildings_max_level_factor=1.000
+	state_category=metropolis
 }

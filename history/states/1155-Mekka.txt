@@ -4,7 +4,7 @@ state={
 	name="STATE_1155"
 
 	history={
-		owner = SAU
+		owner = HEZ
 		victory_points = {
 			5037 50 
 		}
@@ -20,11 +20,13 @@ state={
 
 		}
 		add_core_of = SAU
+                add_core_of = JAM
+                add_core_of = HEZ
 
 	}
 
 	provinces={
-		1923 5037 8073 12883 
+		2033 5037 12883 13337 
 	}
 	manpower=710000
 	buildings_max_level_factor=1.000

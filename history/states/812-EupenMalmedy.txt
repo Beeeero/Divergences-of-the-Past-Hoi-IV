@@ -4,7 +4,7 @@ state={
 	name="STATE_812"
 
 	history={
-		owner = BUR
+		owner = MUG
 		victory_points = {
 			3488 1 
 		}
@@ -12,13 +12,12 @@ state={
 			infrastructure = 6
 
 		}
-		add_core_of = BUR
-		add_core_of = WLL
+		add_core_of = MUG
 
 	}
 
 	provinces={
-		3488 9522 
+		1898 3989 5002 5086 5157 8114 9951 10021 10794 11955 
 	}
 	manpower=21000
 	buildings_max_level_factor=1.000

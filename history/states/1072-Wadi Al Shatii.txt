@@ -1,21 +1,20 @@
+
 state={
 	id=1072
 	name="STATE_1072"
 
-	impassable = yes
-
 	history={
-		owner = ITA
+                owner = BEO
+                add_core_of = BEO
 		buildings = {
 			infrastructure = 0
 
 		}
-		add_core_of = LBA
 
 	}
 
 	provinces={
-		7985 13322
+		1639 10935 10981 12321 12349 12494 12998 
 	}
 	manpower=1200
 	buildings_max_level_factor=1.000

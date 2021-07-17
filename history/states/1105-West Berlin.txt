@@ -1,3 +1,4 @@
+
 state={
 	id=1105
 	name="STATE_1105"
@@ -5,7 +6,7 @@ state={
 	history={
 		owner = CZE
 		victory_points = {
-			6521 30
+			6521 30 
 		}
 		buildings = {
 			infrastructure = 8
@@ -25,9 +26,9 @@ state={
 	}
 
 	provinces={
-		6521 
+		6521 13292 
 	}
 	manpower=1014000
 	buildings_max_level_factor=1.000
-	state_category=city
+	state_category=megalopolis
 }

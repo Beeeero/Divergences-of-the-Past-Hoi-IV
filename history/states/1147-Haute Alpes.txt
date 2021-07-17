@@ -1,11 +1,11 @@
+
 state={
 	id=1147
 	name="STATE_1147"
 
 	history={
-		owner = DUM
-		add_core_of = DUM
-		add_core_of = OCC
+		owner = INS
+		add_core_of = INS
 		buildings = {
 			infrastructure = 4
 
@@ -14,7 +14,7 @@ state={
 	}
 
 	provinces={
-		13330
+		1648 4652 7658 8360 10509 10522 12488 
 	}
 	manpower=20100
 	buildings_max_level_factor=1.000

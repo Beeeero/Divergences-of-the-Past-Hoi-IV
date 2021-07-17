@@ -4,19 +4,18 @@ state={
 	name="STATE_1153"
 
 	history={
-		owner = DUM
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = SYR
 
 	}
 
 	provinces={
-		13344
+		10383 12316 13344 
 	}
 	manpower=9700
 	buildings_max_level_factor=1.000
 	state_category=wasteland
+        impassable = yes
 }

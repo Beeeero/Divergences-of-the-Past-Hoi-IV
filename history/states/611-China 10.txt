@@ -4,10 +4,10 @@ state={
 	name="STATE_611"
 
 	history={
-		owner = MEN
-		add_core_of = MEN
+		owner = MAN
+		add_core_of = MON
 		add_core_of = CHI
-		add_core_of = PRC
+		add_core_of = MAN
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -20,7 +20,7 @@ state={
 	}
 
 	provinces={
-		828 952 1137 1489 1590 3955 4495 4612 6904 7545 7674 9776 10397 11752 
+		828 952 1137 1489 1590 3955 4495 6904 9776 10397 
 	}
 	manpower=1470000
 	buildings_max_level_factor=1.000

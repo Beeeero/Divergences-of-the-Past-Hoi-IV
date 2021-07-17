@@ -1,9 +1,10 @@
+
 state={
 	id=981
 	name="STATE_981"
 
 	history={
-		owner = MAL
+		owner = SIA
 		victory_points = {
 			1291 1 
 		}
@@ -16,7 +17,7 @@ state={
 	}
 
 	provinces={
-		1291 7342 12144 
+		1279 1291 4297 7236 7342 12131 12144 
 	}
 	manpower=21000
 	buildings_max_level_factor=1.000

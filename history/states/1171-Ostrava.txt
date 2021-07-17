@@ -1,14 +1,13 @@
+
 state={
 	id=1171
 	name="STATE_1171"
-	manpower = 82000
-	
-	state_category = rural
-	
+
 	history={
 		owner = CZE
 		buildings = {
 			infrastructure = 6
+
 		}
 		add_core_of = CZE
 		add_core_of = MRV
@@ -22,6 +21,9 @@ state={
 	}
 
 	provinces={
-		13356 13357 
+		1028 1064 1206 10844 11999 12071 12771 
 	}
+	manpower=82000
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

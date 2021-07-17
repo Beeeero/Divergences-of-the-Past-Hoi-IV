@@ -2,19 +2,18 @@
 state={
 	id=301
 	name="STATE_301"
-	manpower = 890100
-	
-	state_category = town
-	
+
 	history={
-		owner = PAR
+		owner = ATL
 		buildings = {
 			infrastructure = 4
 			arms_factory = 1
 			industrial_complex = 3
 			air_base = 1
+
 		}
-		add_core_of = PAR
+		add_core_of = ATL
+		add_core_of = LOG
 		victory_points = {
 			2152 5 
 		}
@@ -22,7 +21,9 @@ state={
 	}
 
 	provinces={
-		2152 2173 2194 11023 12901 
+		2160 2195 2209 5165 8203 10973 12902 12916 12979 
 	}
-	
+	manpower=890100
+	buildings_max_level_factor=1.000
+	state_category=town
 }

@@ -6,7 +6,7 @@ state={
 	history={
 		owner = CZE
 		victory_points = {
-			13292 5
+			13292 5 
 		}
 		buildings = {
 			infrastructure = 8
@@ -26,7 +26,7 @@ state={
 	}
 
 	provinces={
-		13292 
+		3207 3312 9428 9496 11444 11505 
 	}
 	manpower=1111000
 	buildings_max_level_factor=1.000

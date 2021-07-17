@@ -1,25 +1,27 @@
 
 state={
 	id=241
-	name="STATE_241" # Gomel
-	manpower = 382422
-	
-	state_category = rural
+	name="STATE_241"
 
 	history={
-		owner = SOV
+		owner = POL
 		victory_points = {
 			9288 10 
 		}
 		buildings = {
 			infrastructure = 5
 			air_base = 3
+
 		}
-		add_core_of = SOV
+		add_core_of = POL
 		add_core_of = BLR
+
 	}
 
 	provinces={
-		9288 9342 
+		9288 9342 13353 13354 
 	}
+	manpower=382422
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

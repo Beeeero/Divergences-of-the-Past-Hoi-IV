@@ -1,19 +1,20 @@
+
 state={
 	id=947
 	name="STATE_947"
 
 	history={
-		owner = DUM
+		owner = JAM
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = JOR
+		add_core_of = JAM
 
 	}
 
 	provinces={
-		1544 4440 4562 4603 
+		1544 4440 4562 4603 8101 
 	}
 	manpower=410000
 	buildings_max_level_factor=1.000

@@ -1,9 +1,10 @@
+
 state={
 	id=1017
 	name="STATE_1017"
 
 	history={
-		owner = MON
+		owner = OIR
 		victory_points = {
 			7799 1 
 		}
@@ -11,12 +12,13 @@ state={
 			infrastructure = 2
 
 		}
-		add_core_of = MON
+		add_core_of = OIR
+                add_claim_by = MON
 
 	}
 
 	provinces={
-		1689 1725 1728 1798 4697 4858 7799 7881 10623 12544 12614 12649 12675 
+		1689 1725 1728 1798 1859 4697 4858 7799 7881 10623 12544 12605 12614 12649 12675 
 	}
 	manpower=200300
 	buildings_max_level_factor=1.000

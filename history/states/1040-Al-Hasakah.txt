@@ -1,9 +1,10 @@
+
 state={
 	id=1040
 	name="STATE_1040"
 
 	history={
-		owner = DUM
+		owner = SYR
 		victory_points = {
 			1578 1 
 		}
@@ -17,7 +18,7 @@ state={
 	}
 
 	provinces={
-		901 1549 1578 1606 1634 6883 10882 
+		1549 1578 1606 1634 3942 6883 7513 
 	}
 	manpower=110010
 	buildings_max_level_factor=1.000

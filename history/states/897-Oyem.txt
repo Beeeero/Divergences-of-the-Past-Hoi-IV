@@ -1,9 +1,10 @@
+
 state={
 	id=897
 	name="STATE_897"
 
 	history={
-		owner = DUM
+		owner = SPR
 		add_core_of = GAB
 		buildings = {
 			infrastructure = 3
@@ -13,7 +14,7 @@ state={
 	}
 
 	provinces={
-		13271 13272 
+		5139 10948 13271 13272 
 	}
 	manpower=45011
 	buildings_max_level_factor=1.000

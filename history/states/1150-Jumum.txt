@@ -1,19 +1,21 @@
+
 state={
 	id=1150
 	name="STATE_1150"
 
 	history={
-		owner = SAU
+		owner = ASI
 		buildings = {
 			infrastructure = 3
 
-		}
-		add_core_of = SAU
-
+		}		
+                add_core_of = SAU
+                add_core_of = JAM
+                add_core_of = ASI
 	}
 
 	provinces={
-		13341
+		5006 10786 13334 13335 13336 
 	}
 	manpower=6700
 	buildings_max_level_factor=1.000

@@ -1,9 +1,10 @@
+
 state={
 	id=1118
 	name="STATE_1118"
 
 	history={
-		owner = DUM
+		owner = SYR
 		buildings = {
 			infrastructure = 4
 
@@ -12,12 +13,12 @@ state={
 			10731 1 
 		}
 		add_core_of = PAL
-		add_core_of = ISR
+		add_core_of = SYR
 
 	}
 
 	provinces={
-		10731
+		1015 1086 7176 10731 11970 
 	}
 	manpower=400020
 	buildings_max_level_factor=1.000

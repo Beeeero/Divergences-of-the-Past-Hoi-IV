@@ -1,9 +1,10 @@
+
 state={
 	id=878
 	name="STATE_878"
 
 	history={
-		owner = YUG
+		owner = ALB
 		victory_points = {
 			6953 1 
 		}
@@ -14,14 +15,12 @@ state={
 			infrastructure = 4
 
 		}
-		add_core_of = YUG
-		add_core_of = SER
-		add_core_of = KOS
+		add_core_of = ALB
 
 	}
 
 	provinces={
-		6953 9849 
+		3896 9780 11762 
 	}
 	manpower=70100
 	buildings_max_level_factor=1.000

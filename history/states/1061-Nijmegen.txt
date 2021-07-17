@@ -4,8 +4,8 @@ state={
 	name="STATE_1061"
 
 	history={
-		owner = BUR
-		add_core_of = BUR
+		owner = ASM
+		add_core_of = ASM
 		victory_points = {
 			11456 1 
 		}
@@ -17,7 +17,7 @@ state={
 	}
 
 	provinces={
-		6241 9363 11456 
+		1497 4435 7455 10349 10389 12338 12366 
 	}
 	manpower=81000
 	buildings_max_level_factor=1.000

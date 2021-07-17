@@ -7,18 +7,17 @@ state={
 		victory_points = {
 			1910 1 
 		}
-		owner = RAJ
+		owner = MUG
 		buildings = {
 			infrastructure = 2
 
 		}
-		add_core_of = PAK
-		add_core_of = RAJ
+		add_core_of = MUG
 
 	}
 
 	provinces={
-		2041 2084 10821 13289 
+		2041 2084 5042 7273 10821 
 	}
 	manpower=1415800
 	buildings_max_level_factor=1.000

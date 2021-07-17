@@ -11,6 +11,7 @@ state={
 		}
 		add_core_of = BRE
 	}
-	manpower=0
+	manpower=162105
 	buildings_max_level_factor=1.000
+        state_category = city
 }

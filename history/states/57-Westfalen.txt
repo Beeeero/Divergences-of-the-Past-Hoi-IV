@@ -9,22 +9,13 @@ state={
 			495 5 
 		}
 		buildings = {
-			infrastructure = 8
+			infrastructure = 4
 			arms_factory = 3
 			industrial_complex = 1
 			air_base = 3
 
 		}
 		add_core_of = NAS
-		1939.1.1 = {
-			buildings = {
-				radar_station = 1
-				arms_factory = 6
-				industrial_complex = 3
-
-			}
-
-		}
 
 	}
 
@@ -33,5 +24,5 @@ state={
 	}
 	manpower=5109333
 	buildings_max_level_factor=1.000
-	state_category=large_city
+	state_category=town
 }

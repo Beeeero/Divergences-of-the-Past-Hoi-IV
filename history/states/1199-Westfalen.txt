@@ -15,6 +15,7 @@ state={
 	add_core_of = LPD
 	}
 	
-	manpower=0
+	manpower=210547
 	buildings_max_level_factor=1.000
+        state_category=large_town
 }

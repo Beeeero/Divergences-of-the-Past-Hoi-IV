@@ -9,7 +9,7 @@ state={
 
 	history={
 		add_core_of = VIN
-		owner = DUM
+		owner = CHI
 		victory_points = {
 			4075 1 
 		}
@@ -27,7 +27,7 @@ state={
 	}
 
 	provinces={
-		1185 4075 4529 9988 10016 10075 10103 10129 11909 11936 12075 12319 
+		1185 4075 4529 10075 10103 10129 11936 12075 12319 
 	}
 	manpower=9111000
 	buildings_max_level_factor=1.000

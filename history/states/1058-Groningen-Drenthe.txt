@@ -14,9 +14,9 @@ state={
 	}
 
 	provinces={
-		9335 11318 
+		9309 9335 9403 11318 
 	}
 	manpower=521000
 	buildings_max_level_factor=1.000
-	state_category=rural
+	state_category=large_town
 }

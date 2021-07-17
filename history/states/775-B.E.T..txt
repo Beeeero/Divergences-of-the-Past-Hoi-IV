@@ -6,8 +6,8 @@ state={
 	impassable = yes
 
 	history={
-		owner = DUM
-		add_core_of = CHA
+		
+		
 		buildings = {
 			infrastructure = 0
 		}

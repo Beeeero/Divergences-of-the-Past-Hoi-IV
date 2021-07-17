@@ -7,8 +7,9 @@ state={
 	}
 
 	history={
-		owner = DUM
+		owner = VEC
 		add_core_of = CYP
+                add_core_of = VEC
 		victory_points = {
 			7193 3 
 		}

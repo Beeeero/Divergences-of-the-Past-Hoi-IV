@@ -1,10 +1,11 @@
+
 state={
 	id=1041
 	name="STATE_1041"
 
 	history={
-		add_core_of = BRM
-		owner = RAJ
+		add_core_of = SPR
+		owner = SPR
 		buildings = {
 			infrastructure = 2
 
@@ -16,7 +17,7 @@ state={
 	}
 
 	provinces={
-		4175 4210 7400 7647 7909 7974 12317 
+		1014 1333 3651 7254 7382 10182 10223 10267 12197 12267 12284 
 	}
 	manpower=402300
 	buildings_max_level_factor=1.000

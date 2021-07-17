@@ -1,19 +1,23 @@
+
 state={
 	id=914
 	name="STATE_914"
 
 	history={
-		owner = BRA
+		owner = ATL
 		buildings = {
 			infrastructure = 1
+
 		}
-		add_core_of = BRA
+		add_core_of = ATL
+                add_core_of = AMZ
+
 	}
 
 	provinces={
-		2142 
+		1583 2185 5186 7636 8210 10360 10945 10994 11003 12438 12479 12937 12972 
 	}
 	manpower=32300
 	buildings_max_level_factor=1.000
-	state_category = pastoral
+	state_category=pastoral
 }

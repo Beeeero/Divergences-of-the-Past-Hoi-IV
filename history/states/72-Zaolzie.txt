@@ -1,26 +1,19 @@
+
 state={
 	id=72
 	name="STATE_72"
-	manpower = 116000
-	
-	state_category = rural
-	
-	history={
-		owner = CZE
-		buildings = {
-			infrastructure = 6
-			industrial_complex = 1
-		}
-		add_core_of = CZE
-		add_core_of = MRV
 
-		1939.3.14 = {
-			owner = POL
-			controller = POL
+	history={
+		owner = SPR
+		buildings = {
+			infrastructure = 3
+
 		}
-	}
 
 	provinces={
-		9551 9567 
+		2196 5224 8182 8183 8201 8205 10845 12944 12967 
 	}
+	manpower=116000
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

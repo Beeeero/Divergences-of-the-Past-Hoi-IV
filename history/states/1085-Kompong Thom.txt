@@ -4,7 +4,7 @@ state={
 
 	history={
 		add_core_of = CAM
-		owner = DUM
+		owner = CAM
 		buildings = {
 			infrastructure = 1
 

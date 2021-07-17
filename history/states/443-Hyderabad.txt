@@ -4,17 +4,17 @@ state={
 	name="STATE_443"
 
 	history={
-		owner = RAJ
+		owner = SID
 		buildings = {
 			infrastructure = 5
 
 		}
-		add_core_of = PAK
+		add_core_of = SID
 
 	}
 
 	provinces={
-		1147 1971 1980 4003 4110 4382 7084 
+		1147 1971 1980 4003 4110 4382 7020 7084 
 	}
 	manpower=2357000
 	buildings_max_level_factor=1.000

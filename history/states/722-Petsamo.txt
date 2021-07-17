@@ -1,9 +1,7 @@
+
 state={
 	id=722
 	name="STATE_722"
-	manpower = 2371
-
-	state_category = enclave
 
 	history={
 		owner = SCA
@@ -11,12 +9,18 @@ state={
 			infrastructure = 3
 			9140 = {
 				naval_base = 1
+
 			}
+
 		}
 		add_core_of = SCA
+
 	}
-	
+
 	provinces={
-		6012 6183 9140 11142 
+		64 103 3097 3158 6012 6061 6092 6183 9116 9140 11034 11063 11142 
 	}
+	manpower=2371
+	buildings_max_level_factor=1.000
+	state_category=enclave
 }

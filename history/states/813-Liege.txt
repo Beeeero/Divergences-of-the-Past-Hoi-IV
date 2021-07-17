@@ -1,26 +1,25 @@
+
 state={
 	id=813
 	name="STATE_813"
 
 	history={
-		owner = BUR
-
+		owner = CHI
 		victory_points = {
 			13237 1 
 		}
-
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
 
 		}
-		add_core_of = BUR
-		add_core_of = WLL
+		add_core_of = CHI
+		add_core_of = MAN
 
 	}
 
 	provinces={
-		6537 9444 13237 
+		1006 1094 1166 1193 4053 4196 7099 7131 10010 10042 10054 10093 12057 12084 
 	}
 	manpower=698200
 	buildings_max_level_factor=1.000

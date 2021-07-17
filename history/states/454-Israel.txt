@@ -4,7 +4,7 @@ state={
 	name="STATE_454"
 
 	history={
-		owner = DUM
+		owner = SYR
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 1
@@ -22,12 +22,12 @@ state={
 			4206 1 
 		}
 		add_core_of = PAL
-		add_core_of = ISR
+		add_core_of = SYR
 
 	}
 
 	provinces={
-		1 1015 1065 1086 1201 4088 4206 7107 7176 11970 
+		1 1065 1201 7107 
 	}
 	manpower=513122
 	buildings_max_level_factor=1.000

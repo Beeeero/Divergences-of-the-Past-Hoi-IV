@@ -18,11 +18,13 @@ state={
 			12727 5 
 		}
 		add_core_of = SAU
+                add_core_of = JAM
+
 
 	}
 
 	provinces={
-		5024 5093 8004 8060 12727 12870 
+		5024 5093 8060 12727 12870 
 	}
 	manpower=321000
 	buildings_max_level_factor=1.000

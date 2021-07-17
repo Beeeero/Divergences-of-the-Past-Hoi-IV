@@ -1,3 +1,4 @@
+
 state={
 	id=948
 	name="STATE_948"
@@ -12,11 +13,13 @@ state={
 
 		}
 		add_core_of = SAU
+                add_core_of = JAM
+
 
 	}
 
 	provinces={
-		2090 4981 5006 7934 10748 10786 12758 
+		2090 4981 7934 8004 10748 10892 13341 
 	}
 	manpower=311000
 	buildings_max_level_factor=1.000

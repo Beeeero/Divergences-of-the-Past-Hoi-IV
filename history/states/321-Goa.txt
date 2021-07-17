@@ -2,25 +2,28 @@
 state={
 	id=321
 	name="STATE_321"
-	manpower = 533952
-
-	state_category = enclave
 
 	history={
-		owner = POR
+		owner = DUM
 		add_core_of = RAJ
 		victory_points = {
 			1273 1 
 		}
 		buildings = {
 			infrastructure = 5
-			1273 ={
+			1273 = {
 				naval_base = 1
+
 			}
+
 		}
+
 	}
 
 	provinces={
-		1273 
+		1273 1349 7447 
 	}
+	manpower=533952
+	buildings_max_level_factor=1.000
+	state_category=enclave
 }

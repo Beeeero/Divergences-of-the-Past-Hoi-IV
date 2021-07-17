@@ -1,9 +1,10 @@
+
 state={
 	id=1029
 	name="STATE_1029"
 
 	history={
-		owner = CHI
+		owner = MAN
 		add_core_of = CHI
 		add_core_of = PRC
 		buildings = {
@@ -25,7 +26,7 @@ state={
 	}
 
 	provinces={
-		1139 4114 4144 4606 7074 
+		1139 1180 4114 4144 4606 7074 7571 
 	}
 	manpower=3024000
 	buildings_max_level_factor=1.000

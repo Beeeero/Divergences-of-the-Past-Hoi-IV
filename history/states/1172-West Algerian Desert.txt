@@ -3,10 +3,10 @@ state={
 	id=1172
 	name="STATE_1172"
 
-
 	history={
-		owner = DUM
-		add_core_of = ALG
+                owner = ATL
+                add_core_of = AMZ
+		add_core_of = ATL
 		buildings = {
 			infrastructure = 0
 
@@ -15,7 +15,7 @@ state={
 	}
 
 	provinces={
-		13358
+		2214 5220 12853 12913 12999 
 	}
 	manpower=53423
 	buildings_max_level_factor=1.000

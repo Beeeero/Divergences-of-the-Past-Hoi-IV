@@ -1,9 +1,10 @@
+
 state={
 	id=539
 	name="STATE_539"
 
 	history={
-		owner = DUM
+		owner = SPR
 		add_core_of = GAB
 		victory_points = {
 			5139 1 
@@ -20,7 +21,7 @@ state={
 	}
 
 	provinces={
-		5139 8207 10948 13210 
+		8207 13210 
 	}
 	manpower=364741
 	buildings_max_level_factor=1.000

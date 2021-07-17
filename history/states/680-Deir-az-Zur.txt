@@ -4,7 +4,7 @@ state={
 	name="STATE_680"
 
 	history={
-		owner = DUM
+		owner = IRQ
 		victory_points = {
 			3942 1 
 		}
@@ -12,12 +12,12 @@ state={
 			infrastructure = 2
 
 		}
-		add_core_of = SYR
+		add_core_of = IRQ
 
 	}
 
 	provinces={
-		2013 3942 7513 10383 12316 12442 
+		901 2013 10882 
 	}
 	manpower=214100
 	buildings_max_level_factor=1.000

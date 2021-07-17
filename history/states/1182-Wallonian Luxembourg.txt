@@ -1,17 +1,16 @@
+
 state={
 	id=1182
 	name="STATE_1182"
 
 	history={
 		owner = BUR
-
 		victory_points = {
 			9418 5 
 		}
 		victory_points = {
 			11407 3 
 		}
-
 		buildings = {
 			infrastructure = 6
 			industrial_complex = 1
@@ -24,7 +23,7 @@ state={
 	}
 
 	provinces={
-		9418 11407 
+		6537 9418 9444 11407 13237 
 	}
 	manpower=934020
 	buildings_max_level_factor=1.000

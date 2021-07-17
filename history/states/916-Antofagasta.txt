@@ -1,9 +1,10 @@
+
 state={
 	id=916
 	name="STATE_916"
 
 	history={
-		owner = CHL
+		owner = ATL
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -12,8 +13,9 @@ state={
 
 			}
 
-		}
-		add_core_of = CHL
+		}		
+                add_core_of = ATL
+                add_core_of = AMZ
 		victory_points = {
 			12994 1 
 		}
@@ -21,7 +23,7 @@ state={
 	}
 
 	provinces={
-		5146 8217 8231 12994 
+		2132 2150 2178 2228 5107 5153 12933 
 	}
 	manpower=40302
 	buildings_max_level_factor=1.000

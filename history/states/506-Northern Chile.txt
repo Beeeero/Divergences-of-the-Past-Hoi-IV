@@ -4,7 +4,7 @@ state={
 	name="STATE_506"
 
 	history={
-		owner = CHL
+		owner = INC
 		buildings = {
 			infrastructure = 3
 			industrial_complex = 1
@@ -15,12 +15,12 @@ state={
 			}
 
 		}
-		add_core_of = CHL
+		add_core_of = INC
 
 	}
 
 	provinces={
-		5171 5192 5228 11000 12914 
+		5171 5192 5228 8194 11000 12914 
 	}
 	manpower=222300
 	buildings_max_level_factor=1.000

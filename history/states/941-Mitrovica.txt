@@ -1,9 +1,10 @@
+
 state={
 	id=941
 	name="STATE_941"
 
 	history={
-		owner = YUG
+		owner = SER
 		victory_points = {
 			9874 1 
 		}
@@ -11,14 +12,12 @@ state={
 			infrastructure = 4
 
 		}
-		add_core_of = YUG
 		add_core_of = SER
-		add_core_of = KOS
 
 	}
 
 	provinces={
-		9874 
+		6940 6953 9849 9874 9890 
 	}
 	manpower=20400
 	buildings_max_level_factor=1.000

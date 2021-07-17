@@ -2,20 +2,21 @@
 state={
 	id=1164
 	name="STATE_1164"
-	manpower = 223422
-	
-	state_category = rural
 
 	history={
-		owner = SOV
+		owner = MUG
 		buildings = {
 			infrastructure = 5
+
 		}
-		add_core_of = SOV
-		add_core_of = BLR
+		add_core_of = MUG
+
 	}
 
 	provinces={
-		9396 11230 11383 13351 13352
+		2005 4045 4410 4953 5040 5096 7938 10332 10801 
 	}
+	manpower=223422
+	buildings_max_level_factor=1.000
+	state_category=rural
 }

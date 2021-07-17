@@ -22,12 +22,12 @@ state={
 
 		}
 		add_core_of = SCA
-                add_core_of = CZE
+		add_core_of = CZE
 
 	}
 
 	provinces={
-		537 6309 6334 6390 9277 9306 9334 9361 11372 13299 
+		9277 9306 9334 9361 11372 13299 
 	}
 	manpower=691206
 	buildings_max_level_factor=1.000

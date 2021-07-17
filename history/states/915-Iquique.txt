@@ -1,19 +1,20 @@
+
 state={
 	id=915
 	name="STATE_915"
 
 	history={
-		owner = CHL
+		owner = INC
 		buildings = {
 			infrastructure = 3
 
 		}
-		add_core_of = CHL
+		add_core_of = INC
 
 	}
 
 	provinces={
-		5131 
+		2182 2210 5131 5146 8217 8231 12994 13086 13175 
 	}
 	manpower=21003
 	buildings_max_level_factor=1.000

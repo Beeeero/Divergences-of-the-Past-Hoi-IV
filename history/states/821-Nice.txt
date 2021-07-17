@@ -1,10 +1,12 @@
+
 state={
 	id=821
 	name="STATE_821"
 
 	history={
-		owner = PRO
-		add_core_of = PRO
+		owner = CHI
+		add_core_of = CHI
+                add_core_of = MAN
 		victory_points = {
 			9909 5 
 		}
@@ -20,7 +22,7 @@ state={
 	}
 
 	provinces={
-		3959 9909 13327 13328 13333
+		1053 4081 4156 4183 7004 7172 7199 9942 10057 10112 11945 12030 
 	}
 	manpower=305100
 	buildings_max_level_factor=1.000

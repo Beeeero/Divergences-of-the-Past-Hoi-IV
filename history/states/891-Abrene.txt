@@ -1,19 +1,21 @@
+
 state={
 	id=891
 	name="STATE_891"
 
 	history={
-		owner = LAT
+		owner = POL
 		buildings = {
 			infrastructure = 4
 
 		}
-		add_core_of = LAT
+		add_core_of = POL
+		add_core_of = LIT
 
 	}
 
 	provinces={
-		13268 
+		222 319 13268 
 	}
 	manpower=30000
 	buildings_max_level_factor=1.000
